@@ -1,15 +1,15 @@
 ````html
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050505,50:101010,100:00ff41&text=0617014110-afk&fontColor=00ff41&fontSize=55&fontAlignY=45&animation=twinkling&stroke=00ff41&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050505,40:180000,75:8B0000,100:050505&text=0617014110-AFK&fontColor=FF2222&fontSize=55&fontAlignY=45&animation=twinkling&stroke=FF0000&strokeWidth=2"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=2200&pause=600&color=00FF41&center=true&vCenter=true&width=650&lines=%5B+SYSTEM+ONLINE+%5D;%3E+NO+RULES.+JUST+CODE.;%3E+404%3A+LIMITS+NOT+FOUND.;%3E+WELCOME+TO+THE+VOID." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=2000&pause=500&color=FF2222&center=true&vCenter=true&width=650&lines=NO+SIGNAL+%2F%2F+NO+LIMITS;SYSTEM+BREACH+DETECTED;WELCOME+TO+THE+REDLINE;%3E+ENTERING+THE+VOID..." />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/MODE-UNDERGROUND-00ff41?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/ACCESS-GRANTED-00ff41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-FF2222?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/MODE-REDLINE-FF2222?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/SYSTEM-UNKNOWN-FF2222?style=for-the-badge&labelColor=080808"/>
 
 </div>
 
@@ -17,59 +17,48 @@
 
 <div align="center">
 
-### `// TRANSMISSION INCOMING`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FF0000"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:00ff41,50:050505,100:00ff41"/>
-
-```text
- █████╗ ███████╗██╗  ██╗    █████╗ ███████╗██╗  ██╗
-██╔══██╗██╔════╝██║ ██╔╝   ██╔══██╗██╔════╝██║ ██╔╝
-███████║█████╗  █████╔╝    ███████║█████╗  █████╔╝
-██╔══██║██╔══╝  ██╔═██╗    ██╔══██║██╔══╝  ██╔═██╗
-██║  ██║███████╗██║  ██╗   ██║  ██║███████╗██║  ██╗
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-````
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00ff41"/>
+### `// 01 — OPERATOR PROFILE`
 
 </div>
 
-## `01 // ABOUT THE OPERATOR`
-
-```bash
-> user: 0617014110-afk
-> status: building
-> mindset: learn. build. repeat.
-> access_level: unrestricted*
-```
-
-## `02 // TECH ARSENAL`
+```text
+╔══════════════════════════════════════════════╗
+║             IDENTITY: REDLINE                ║
+╠══════════════════════════════════════════════╣
+║  USER     :: 0617014110-afk                  ║
+║  STATUS   :: BUILDING                        ║
+║  MODE     :: ALWAYS LEARNING                 ║
+║  SIGNAL   :: ACTIVE                          ║
+╚══════════════════════════════════════════════╝
+````
 
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FF0000"/>
+
+### `// 02 — TECH ARSENAL`
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark"/>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FF0000"/>
 
-## `03 // GITHUB INTEL`
+### `// 03 — GITHUB INTEL`
 
-<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=0617014110-afk&show_icons=true&hide_border=true&bg_color=080808&title_color=FF2222&icon_color=FF0000&text_color=EEEEEE"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=0617014110-afk&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff41&icon_color=00ff41&text_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0617014110-afk&layout=compact&hide_border=true&bg_color=080808&title_color=FF2222&text_color=EEEEEE"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0617014110-afk&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff41&text_color=ffffff"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=0617014110-afk&hide_border=true&background=080808&ring=FF0000&fire=FF2222&currStreakLabel=FF2222&sideLabels=EEEEEE&dates=999999"/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=0617014110-afk&theme=dark&hide_border=true&background=050505&ring=00ff41&fire=00ff41&currStreakLabel=00ff41"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FF0000"/>
 
-</div>
+### `// 04 — END OF TRANSMISSION`
 
-## `04 // END OF TRANSMISSION`
+<img src="https://img.shields.io/badge/CONNECTION-TERMINATED-FF2222?style=for-the-badge&labelColor=080808"/>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00ff41,50:101010,100:050505"/>
-
-**`CONNECTION TERMINATED // SEE YOU IN THE VOID`**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:050505,50:650000,100:FF0000"/>
 
 </div>
 ```
